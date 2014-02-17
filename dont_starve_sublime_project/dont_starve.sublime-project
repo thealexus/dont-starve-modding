@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"name": "dont_starve/mods",
+			"path": "."
+		},
+		{
+			"name": "dont_starve/data/scripts",
+			"path": "../data/scripts"
+		}
+	]
+}
